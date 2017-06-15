@@ -2,4 +2,4 @@
 
 When viewed on github, link:afile{outfilesuffix}[this link] will work correctly i.e. it will take us to the afile.adoc
 
-Also, so will <<afile,this link>>
+Also, so will <<afile#,this link>>
