@@ -1,3 +1,5 @@
 == Hello
 
 This is a file and should be rendered nicely
+
+Here is <<afolder/file2#,a file in a subfolder>>
